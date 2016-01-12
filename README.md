@@ -23,3 +23,4 @@ bootstrap v4.0 uikit
 - 2016.01.09 Forms
 - 2016.01-10 Input-group Dropdowns Jumbptron Labels Alerts
 - 2016.01.11 Cards
+- 2016.01.12 Navs Navbar Breadcrumb Pagination Progress
