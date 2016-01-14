@@ -25,3 +25,4 @@ bootstrap v4.0 uikit
 - 2016.01.11 Cards
 - 2016.01.12 Navs Navbar Breadcrumb Pagination Progress
 - 2016.01.13 List group
+- 2016.01.14 Modal Scrollspy Tooltips Popovers Collapse Carousel Utility classes
